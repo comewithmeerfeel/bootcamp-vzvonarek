@@ -1,2 +1,3 @@
-ctk predavanje
+ctk predavanje 257
+
 
