@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488914556 source:/home/vale/Documents/C++/Hello world/Hello world 2/main.cpp
+	<iostream>
+	<math.h>
+

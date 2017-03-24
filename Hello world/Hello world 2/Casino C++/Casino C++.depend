@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490005992 source:/home/vale/Documents/C++/Hello world/Hello world 2/Casino C++/main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<time.h>
+	<cstdlib>
+	<ctime>
+

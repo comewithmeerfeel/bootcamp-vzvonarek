@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1489583489 source:/home/vale/Documents/C++/Hello world/Hello world 2/Vektor/main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<list>
+	<time.h>
+	<cstdlib>
+	<ctime>
+
