@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1489741871 source:/home/vale/Documents/C++/Hello world/Hello world 2/Operacije zadatak/src/operacije.cpp
-
-1489742552 source:/home/vale/Documents/C++/Hello world/Hello world 2/Operacije zadatak/main.cpp
-	<iostream>
-	"operacije.h"
-
-1489741646 /home/vale/Documents/C++/Hello world/Hello world 2/Operacije zadatak/include/operacije.h
-

@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1490019507 source:/home/vale/Documents/C++/Hello world/Hello world 2/slot masina/main.cpp
-	<iostream>
-	<vector>
-	<list>
-	<time.h>
-	<cstdlib>
-	<ctime>
-
