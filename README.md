@@ -1,3 +1,0 @@
-ctk predavanje 257
-
-
